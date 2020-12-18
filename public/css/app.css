@@ -16429,3 +16429,17 @@ section .card-deck .card {
     width: fit-content;
   }
 }
+
+.img-footer {
+  background-image: url("../img/signup-bg.jpg");
+  height: 270px;
+  padding-top: 100px;
+}
+
+.test .container .row .icon a {
+  border: solid 1px gray;
+  border-radius: 50%;
+  padding: 5px;
+  margin-left: 20px;
+  color: white;
+}
